@@ -1,8 +1,15 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import { sdk } from '@farcaster/miniapp-sdk'
 
 export default function Home() {
+  <script type="module">
+    import { sdk } from 'https://esm.sh/@farcaster/miniapp-sdk'
+  </script>
+  (async () => {
+    await sdk.actions.ready()
+  })()
   return (
     <div className="container">
       <Head>

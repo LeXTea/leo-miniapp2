@@ -9,6 +9,7 @@
     "export": "next build && next export"
   },
   "dependencies": {
+    "@farcaster/miniapp-sdk": "^0.1.10",
     "@netlify/plugin-nextjs": "^5.13.3",
     "next": "^15.0.0",
     "react": "^18.2.0",
