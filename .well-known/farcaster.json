@@ -1,0 +1,21 @@
+{
+  "frame": {
+    "name": "Leo's Simple Weather",
+    "version": "1",
+    "iconUrl": "https://leo-miniapp2.netlify.app/icon.png",
+    "homeUrl": "https://leo-miniapp2.netlify.app",
+    "imageUrl": "https://leo-miniapp2.netlify.app/splash_sky.jpg",
+    "splashImageUrl": "https://leo-miniapp2.netlify.app/splash_sky.jpg",
+    "splashBackgroundColor": "#a6006b",
+    "webhookUrl": "https://leo-miniapp2.netlify.app/api/webhook",
+    "subtitle": "Simple weather mini-app",
+    "description": "Simple weather mini-app",
+    "primaryCategory": "utility",
+    "heroImageUrl": "https://leo-miniapp2.netlify.app/splash_sky.jpg"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
