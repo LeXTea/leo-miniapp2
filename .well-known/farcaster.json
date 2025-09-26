@@ -14,8 +14,8 @@
     "heroImageUrl": "https://leo-miniapp2.netlify.app/splash_sky.jpg"
   },
   "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+    "header": "eyJmaWQiOjEzNDY3OTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg5NTM2OGRjYzcxODQxNGU4MTlGZDIyMjQwZDc5N0NmM2MxMTY1NzllIn0",
+    "payload": "eyJkb21haW4iOiJsZW8tbWluaWFwcDIubmV0bGlmeS5hcHAifQ",
+    "signature": "MHhmMTI3NjI5MDVkMjlkOGMxYmM3OTAyY2VlZGI5ZjI5YzVhZDA3NzM1OWM0NDM4ZGY5MzhhN2YxYjVjNjFjNWZmMjY0MjBjOTg1MGMyNzJiZjRkZDM0OWJlMDI5YzZmZTExM2RmOGNhMmVjNjYyYjBhZmFmZjBiMzE3MjgzZTEyNzFi"
   }
 }
